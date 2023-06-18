@@ -2,6 +2,8 @@
 
 NetShell is a script that allows you to remotely execute commands on client machines over a network. It provides a simple and efficient way to manage and control multiple clients from a central server.
 
+![NetShell](https://github.com/secnnet/NetControlCenter/assets/17622687/26c64061-2839-4870-ad04-792dca7f80d8)
+
 ## Features
 
 - Connect to multiple clients simultaneously
@@ -32,6 +34,8 @@ This project is licensed under the terms of the MIT license. See the [LICENSE](L
 # NetCommander
 
 NetCommander is a powerful network management tool that enables remote command execution and control over multiple client machines. It simplifies the administration and orchestration of network operations from a centralized server.
+
+![NetCommander](https://github.com/secnnet/NetControlCenter/assets/17622687/a8dfd710-1e30-4da8-a922-26a32ec7d5ae)
 
 ## Features
 
